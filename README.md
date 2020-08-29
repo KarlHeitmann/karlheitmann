@@ -9,3 +9,5 @@ I am looking to collaborate on any usefull project. Hopefully, that may help to 
 I don't like political correctness. Hurray for freedom of speech. By speaking out loud your thoughts, new and original ideas may come to you.
 
 Speak about your ideas. Don't care about what other people may think about you.
+
+# Shout out to Lisa and Emily 😺
