@@ -10,4 +10,3 @@ I don't like political correctness. Hurray for freedom of speech. By speaking ou
 
 Speak about your ideas. Don't care about what other people may think about you.
 
-#### Shout out to Lisa and Emily 😺 cheerio!
