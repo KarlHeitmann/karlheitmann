@@ -6,6 +6,8 @@ I am always trying to learn new things, I am OpenSuse user and I love GNU/Linux.
 
 I am looking to collaborate on any usefull project. Hopefully, that may help to descentralize the web.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=karlheitmann&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![Karl Heitmann's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarlHeitmann)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
