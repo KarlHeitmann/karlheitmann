@@ -1,12 +1,16 @@
-### Hi there 👋 , folks
+### Hi 👋
 
-I live in Chile, and I'm working full time Ruby on Rails.
+I live in Chile, I'm open to work.
 
-I am always trying to learn new things, I am a Debian user and I love GNU/Linux. 
+I'm A self-taught and versatile software developer, specialized in Ruby on Rails and passionate about testing with RSpec.
 
-I am currently learning Rust in depth, check out my *_explorer repos..
+- [Checkout my github page to read my CV](https://karlheitmann.github.io/)
 
-I am looking to collaborate on any project. It is fun to send PRs!
+- [Visit my WordPress site to see my portfolio](https://www.karlheitmann.com/)
+
+- [My LinkedIn profile](https://www.linkedin.com/in/karl-heitmann-ab888b1aa/)
+
+#### Some GitHub stats
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=karlheitmann&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy) -->
 <!--[![Karl Heitmann's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarlHeitmann&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
