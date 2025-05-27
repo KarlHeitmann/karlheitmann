@@ -2,7 +2,7 @@
 
 I live in Chile, I'm open to work.
 
-I'm A self-taught and versatile software developer, specialized in Ruby on Rails and passionate about testing with RSpec.
+I'm a self-taught and versatile software developer, specialized in Ruby on Rails and passionate about testing with RSpec.
 
 - [Checkout my github page to read my CV](https://karlheitmann.github.io/)
 
