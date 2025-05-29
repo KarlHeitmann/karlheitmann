@@ -4,9 +4,9 @@ I live in Chile, I'm open to work.
 
 I'm a self-taught and versatile software developer, specialized in Ruby on Rails and passionate about testing with RSpec.
 
-- [Checkout my github page to read my CV](https://karlheitmann.github.io/)
+- [Visit my WordPress site to see my portfolio](https://www.karlheitmann.com?utm_source=github_profile&utm_medium=profile&utm_campaign=find_a_good_dev)
 
-- [Visit my WordPress site to see my portfolio](https://www.karlheitmann.com/)
+- [Checkout my github page to read my CV](https://karlheitmann.github.io/)
 
 - [My LinkedIn profile](https://www.linkedin.com/in/karl-heitmann-ab888b1aa/)
 
